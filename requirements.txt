@@ -1,6 +1,6 @@
-streamlit
-streamlit-webrtc
-tensorflow==2.20.0
+streamlit==1.50.0
+streamlit-webrtc==0.63.11
+tensorflow-cpu==2.12.0
 pillow
 numpy==1.23.5
 pandas
