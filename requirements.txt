@@ -1,0 +1,7 @@
+streamlit
+streamlit-webrtc
+tensorflow==2.12.0
+pillow
+numpy==1.23.5
+pandas
+matplotlib
